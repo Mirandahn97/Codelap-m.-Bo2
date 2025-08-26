@@ -23,6 +23,6 @@ console.groupEnd();
 /* opgave 3 */
 console.group("opgave 3");
 
-
-
+delete person.age;
+console.log(person);
 console.groupEnd();
